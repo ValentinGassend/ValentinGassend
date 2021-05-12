@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ValentinGassend
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML/CSS/JS/PHP/SQL
+- 💞️ I’m looking to collaborate on all projects about web development
+- 📫 Reach me on my email adress : valentin.gassend@gmail.com
