@@ -14,9 +14,16 @@
 
 <h2>Stats</h2>
 
+[![Valentin's stats](https://wakatime.com/badge/user/e2dd042b-3e3f-4d6e-a74e-9f80ac082764.svg)](https://wakatime.com/@e2dd042b-3e3f-4d6e-a74e-9f80ac082764)
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGassend&theme=vision-friendly-dark)-->
 
 ![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinGassend&count_private=true&theme=vision-friendly-dark&show_icons=true)
+
+
+<figure><embed src="https://wakatime.com/share/@Patro/8b81fde1-f0f2-4f9e-a0a5-09f3247205ad.svg"></embed></figure>
+
+
 
 <!--!<h2>Actual Projects</h2>
 
