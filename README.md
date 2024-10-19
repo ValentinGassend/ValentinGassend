@@ -1,25 +1,29 @@
 
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/80779186?v=4" alt="Profile Picture" width="150" />
+</p>
+<h1 align="left">👋 Hi, I’m @ValentinGassend</h1>
 
-<h1>👋 Hi, I’m @ValentinGassend </h1>
-<br/>
+
 <ul>
-<li> 👀 I’m interested in web development </li>
-  
-<li> 🌱 I’m currently learning HTML/CSS/JS/PHP/SQL </li>
-  
-<li> 💞️ I’m looking to collaborate on all projects about web development </li>
-  
-<li> 📫 Reach me on my email address : valentin.gassend@gmail.com </li>
-  
+  <li>👀 I’m passionate about web development</li>
+  <li>🌱 I’m currently honing my skills in HTML, CSS, JavaScript, PHP, and SQL</li>
+  <li>💼 Open to collaboration on exciting web development projects</li>
+  <li>📫 Feel free to reach out via email: <a href="mailto:valentin.gassend@gmail.com">valentin.gassend@gmail.com</a></li>
+  <li>🌍 Check out my website: <a href="https://www.valentingassend.com/" target="_blank">valentingassend.com</a></li>
 </ul>
-<br/>
-<h1>📊 Stats</h1>
-<br/>
 
-_since 07/02/22_ : [![Valentin's stats](https://wakatime.com/badge/user/e2dd042b-3e3f-4d6e-a74e-9f80ac082764.svg)](https://wakatime.com/@e2dd042b-3e3f-4d6e-a74e-9f80ac082764) spend on developpement
+<h2>📊 Stats</h2>
 
-![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinGassend&count_private=true&theme=vision-friendly-dark&show_icons=true)
+<p>
+  <a href="https://wakatime.com/@e2dd042b-3e3f-4d6e-a74e-9f80ac082764">
+    <img src="https://wakatime.com/badge/user/e2dd042b-3e3f-4d6e-a74e-9f80ac082764.svg" alt="WakaTime Badge"/>
+  </a>
+   - Time spent on development since 07/02/22
+</p>
 
-<p>⚠️ The data below is only available for the public repository. ⚠️</p> 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGassend&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGassend&layout=compact&theme=vision-friendly-dark)
+---
